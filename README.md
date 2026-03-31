@@ -2,19 +2,6 @@
 
 Proyek ini adalah website statis bertema **retreat kreatif pesisir** berbasis Laravel (Blade) dengan fokus pada visual modern, ringan, dan responsif.
 
-## Fitur Utama
-
-- Landing page multi-halaman (tanpa login)
-- Bahasa Indonesia untuk seluruh konten
-- Navigasi antar halaman:
-	- Beranda
-	- Program
-	- Galeri
-	- Kontak
-- Desain responsif untuk desktop dan mobile
-- Footer watermark:
-	- `design by Muhamad Akbar Ergiansyah 23552011411`
-
 ## Teknologi
 
 - PHP 8+
