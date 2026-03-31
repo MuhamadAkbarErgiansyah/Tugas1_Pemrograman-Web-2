@@ -56,40 +56,31 @@ php artisan serve
 http://127.0.0.1:8000
 ```
 
-## Screenshot Per Halaman
+## Penjelasan Per Halaman
 
-Silakan ganti placeholder berikut dengan screenshot Anda.
+### 1. Beranda (`/`)
 
-### 1. Beranda
+Halaman utama menampilkan identitas website, headline utama, deskripsi singkat konsep, dan tombol navigasi cepat ke halaman lain. Pada bagian bawah terdapat tiga kartu ringkas yang menjelaskan nilai utama layanan.
 
-![Screenshot Beranda](./docs/screenshots/beranda.png)
+![Beranda](./docs/screenshots/beranda.png)
 
-### 2. Program
+### 2. Program (`/program`)
 
-![Screenshot Program](./docs/screenshots/program.png)
+Halaman ini berisi rincian paket kegiatan yang ditawarkan, mulai dari paket harian sampai paket tim. Struktur kontennya dibuat jelas agar informasi program mudah dipahami.
 
-### 3. Galeri
+![Program](./docs/screenshots/program.png)
 
-![Screenshot Galeri](./docs/screenshots/galeri.png)
+### 3. Galeri (`/galeri`)
 
-### 4. Kontak
+Halaman galeri menampilkan gambaran suasana kegiatan melalui beberapa blok konten visual-informatif. Tujuannya untuk memberikan representasi atmosfer retreat secara cepat.
 
-![Screenshot Kontak](./docs/screenshots/kontak.png)
+![Galeri](./docs/screenshots/galeri.png)
 
-## Template Folder Screenshot
+### 4. Kontak (`/kontak`)
 
-Simpan file screenshot di folder berikut:
+Halaman kontak berisi informasi reservasi dan kanal komunikasi utama seperti email, WhatsApp, dan Instagram. Halaman ini menjadi titik akhir alur pengguna sebelum melakukan pendaftaran.
 
-```text
-docs/screenshots/
-```
-
-Nama file yang disarankan:
-
-- `beranda.png`
-- `program.png`
-- `galeri.png`
-- `kontak.png`
+![Kontak](./docs/screenshots/kontak.png)
 
 ## Catatan
 
